@@ -1,7 +1,7 @@
 # National_Geographic
 Monthly Updates National Geographic
 
-## [May 2023 已更新/Updated](https://github.com/ThomasSu1/National_Geographic/blob/master/2023/National%20Geographic%20May%202023.pdf)
+## [June 2023 已更新/Updated](https://github.com/ThomasSu1/National_Geographic/blob/master/2023/National%20Geographic%20June%202023.pdf)
 
 ### 加个**星标**呗~
 ### Give me a **Star** if you like~
